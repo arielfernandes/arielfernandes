@@ -1,6 +1,6 @@
 ### Hi there! I'm Ariel Fernandes
-- 🌱 I’m currently learning Python, CPP
-- 🔭 I’m currently working on IFSC (Intern)
+- 🌱 I’m currently learning Python, CPP, PHP
+- 🔭 I’m currently working on Betabit
 
 <!--
 - 🔭 I’m currently working on ...
