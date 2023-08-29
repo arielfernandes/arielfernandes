@@ -1,10 +1,10 @@
 ### Hi there! I'm Ariel Fernandes
-- 🌱 I’m currently learning Python, CPP, PHP
-- 🔭 I’m currently working on Betabit
+- 🌱 I’m currently learning Python, C/CPP
+- 🔭 I’m currently working on Embrapii
 
 <!--
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python, CPP
+- 🌱 I’m currently learning Python, C/CPP
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
