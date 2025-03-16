@@ -1,6 +1,5 @@
 ### Hi there! I'm Ariel Fernandes
 - 🌱 I’m currently learning Python, C/CPP
-- 🔭 I’m currently working on Embrapii
 
 <!--
 - 🔭 I’m currently working on ...
